@@ -1,4 +1,4 @@
-# Linear-and-Decision-Tree-Regression-model-on-Insurance-costs
+# Linear-Decision-Tree-And-Random-Forest-Regression-model-on-Insurance-costs
 The dataset used in this project contained information on personal insurance costs. This dataset was taken from Kaggle. Two models were used in an attempt to predict the outcome variable.
 They are Linear Regression and Decision Tree Regression. I used Linear Regression as my first model because Linear Regression models generally perform well on Regression problems. However, I was unsuccessful at accurately modelling the relationship between the independent variables and dependent variable because the Root Mean Squared Error, which was the evaluation metric that I chose, was very high,
 Then, I tried Decision Tree Regreesion because I wanted to attempt to lower the Root Mean Squared Error I received when I used Linear Regression. Finally, I used the Random Forest model in an attempt to further reduce the root mean squared error. While I was successful in lowering the Root Mean Squared Error, it is still considered a very large number. 
